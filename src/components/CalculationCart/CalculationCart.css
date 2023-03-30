@@ -1,0 +1,21 @@
+.cart{
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 50px 15px;
+    position: sticky;
+    top: 0;
+   
+}
+.cart p{
+    color: black;
+}
+
+.cart-clear{
+    background-color: rgba(255, 0, 0, 0.505);
+    color: black;
+    margin-bottom: 20px;
+}
+.cart-review{
+    background-color: rgba(255, 255, 0, 0.545);
+    color: black;
+}
